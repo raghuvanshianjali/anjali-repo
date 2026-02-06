@@ -1,0 +1,10 @@
+root:x:::root:/root:/bin/bash
+bin:x:::bin:/bin:/sbin/nologin
+daemon:x:::daemon:/sbin:/sbin/nologin
+adm:x:::adm:/var/adm:/sbin/nologin
+lp:x:::lp:/var/spool/lpd:/sbin/nologin
+sync:x:::sync:/sbin:/bin/sync
+shutdown:x:::shutdown:/sbin:/sbin/shutdown
+halt:x:::halt:/sbin:/sbin/halt
+mail:x:::mail:/var/spool/mail:/sbin/nologin
+uucp:x:::uucp:/var/spool/uucp:/sbin/nologin

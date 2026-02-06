@@ -1,0 +1,10 @@
+root:x:0:0:root:/root:/bin/bash saloni3:x:577:578::/home/saloni3:/bin/bash
+bin:x:1:1:bin:/bin:/sbin/nologin saloni4:x:578:579::/home/saloni4:/bin/bash
+daemon:x:2:2:daemon:/sbin:/sbin/nologin saloni2:x:579:580::/home/saloni2:/bin/bash
+adm:x:3:4:adm:/var/adm:/sbin/nologin saloni5:x:580:581::/home/saloni5:/bin/bash
+lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin saloni6:x:581:582::/home/saloni6:/bin/bash
+sync:x:5:0:sync:/sbin:/bin/sync arun:x:582:583::/home/arun:/bin/bash
+shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown Arun:x:583:584::/home/Arun:/bin/bash
+halt:x:7:0:halt:/sbin:/sbin/halt arun1:x:584:585::/home/arun1:/bin/bash
+mail:x:8:12:mail:/var/spool/mail:/sbin/nologin swech:x:585:586::/home/swech:/bin/bash
+uucp:x:10:14:uucp:/var/spool/uucp:/sbin/nologin kunal:x:586:587::/home/kunal:/bin/bash
